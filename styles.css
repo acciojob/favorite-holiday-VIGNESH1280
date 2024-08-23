@@ -7,3 +7,16 @@
 	font-style:italic;
 	font-style:bold;
 }
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    p {
+        font-size: 1em;
+    }
+}
