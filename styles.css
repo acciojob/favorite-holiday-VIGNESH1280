@@ -1,7 +1,9 @@
 /*  your css code here. If applicable */
 .olist{
 	font-style:bold;
+	font-style:italic;
 }
 .ulist{
 	font-style:italic;
+	font-style:bold;
 }
